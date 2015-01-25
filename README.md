@@ -6,8 +6,8 @@ http://issuu.com/nottinghameconomicreview/docs/ner_final_magazine_25.02web__2_
 
 ## File description: 
 
-- analysis.R: A simple script to run basic simulations (non-time-varying)
-- abstractedFunctions.R : This is maybe ideally how this should be done. Nice, abstracted functions with many options. *Not complete*
+- 'analysis.R' : A simple script to run basic simulations (non-time-varying)
+- 'abstractedFunctions.R' : This is maybe ideally how this should be done. Nice, abstracted functions with many options. *Not complete*
 
 ## Preparation: 
 
